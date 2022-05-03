@@ -1,0 +1,2 @@
+My Polybar is a theme from: https://github.com/adi1090x/polybar-themes
+the theme is "Panels"
